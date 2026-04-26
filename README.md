@@ -20,10 +20,36 @@ Currently working on multi-tenant systems deployed across multiple regions (US, 
 
 ## 🛠️ Tech Stack
 
-* < .NET 4 / ASP.NET Core
-* Azure (App Services, Functions, Service Bus)
+### 💻 Backend
+
+* .NET (Framework 4.x, .NET 10)
+* ASP.NET MVC / ASP.NET Core
+* REST APIs / CQRS / Vertical Slice Architecture
 * SQL Server / PostgreSQL
-* Clean Architecture / CQRS
+
+### ☁️ Cloud & DevOps
+
+* Azure App Services
+* Azure Functions
+* Azure Service Bus
+* Azure DevOps (CI/CD)
+* Azure Key Vault
+
+### 🌐 Frontend
+
+* React / TypeScript / Vite
+* HTML / CSS / JavaScript
+
+### 📱 Mobile
+
+* React Native (Expo)
+
+### 🧠 Architecture & Practices
+
+* Clean Architecture
+* Multi-Tenant Systems
+* Event-Driven Architecture
+* Secure API Design
 
 ---
 
