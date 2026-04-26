@@ -53,12 +53,6 @@ Currently working on multi-tenant systems deployed across multiple regions (US, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuvaraj&show_icons=true&hide_border=true)
-
----
-
 ## 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/thuvaraj-jeyaraj-64a240122
