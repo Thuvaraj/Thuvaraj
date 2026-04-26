@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Thuvaraj Jeyaraj
 
-<!--
-**Thuvaraj/Thuvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Software Engineer | .NET | Azure | Multi-Tenant Architect
 
-Here are some ideas to get you started:
+I design and build scalable, secure, enterprise-grade systems using modern .NET and Azure technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on multi-tenant systems deployed across multiple regions (US, Europe, Australia), ensuring performance, security, and data isolation.
+
+---
+
+## 💼 Expertise
+
+* 🏗️ Multi-Tenant Architecture
+* ☁️ Azure Cloud Solutions
+* 🔐 Secure API Development
+* ⚡ High-performance backend systems
+* 🔄 Event-driven architecture
+
+---
+
+## 🛠️ Tech Stack
+
+* < .NET 4 / ASP.NET Core
+* Azure (App Services, Functions, Service Bus)
+* SQL Server / PostgreSQL
+* Clean Architecture / CQRS
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Thuvaraj\&show_icons=true)
+
+---
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/thuvaraj-jeyaraj-64a240122
+
+---
+
+⭐ Always building scalable systems.
